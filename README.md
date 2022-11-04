@@ -17,6 +17,6 @@ To see what I've been up to recently, check out my [blog posts](https://kangin.m
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kip218)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip218&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip218&layout=compact&theme=dark&exclude_repo=Intro-to-Game-Programming-CS3113)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Profile views](https://gpvc.arturio.dev/kip218)
