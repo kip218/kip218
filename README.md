@@ -20,4 +20,4 @@ To see what I've been up to recently, check out my [blog posts](https://kangin.m
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/kip218)](https://leetcode.com/kip218)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kip218)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kip218) -->
