@@ -20,6 +20,6 @@ To see what I've been up to recently, check out my [blog posts](https://kangin.m
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kip218&theme=dark)](https://git.io/streak-stats)
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/kip218)](https://leetcode.com/kip218)
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/kip218)](https://leetcode.com/kip218) -->
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kip218) -->
