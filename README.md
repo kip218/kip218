@@ -1,7 +1,8 @@
 ![Profile views](https://gpvc.arturio.dev/kip218)
 # 👋 Hi, I’m Kang In!
 
-I am currently studying Computer Science and Cybersecurity at NYU.
+I am an aspiring backend software engineer.
+I recently graduated from NYU with a major in Computer Science and a minor in Cybersecurity.
 
 If you’re interested, take a look at my [personal website](https://kangin.me)!
 
