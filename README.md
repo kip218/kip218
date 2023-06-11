@@ -1,10 +1,8 @@
-![Profile views](https://gpvc.arturio.dev/kip218)
 # 👋 Hi, I’m Kang In!
 
-I am an aspiring backend software engineer.
-I recently graduated from NYU with a major in Computer Science and a minor in Cybersecurity.
+I like doing backend stuff.
 
-If you’re interested, take a look at my [personal website](https://kangin.me)!
+My [personal website](https://kangin.me)!
 
 To see what I've been up to recently, check out my [blog posts](https://kangin.me/blog/)!
 
