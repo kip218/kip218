@@ -1,10 +1,8 @@
 # 👋 Hi, I’m Kang In!
 
-I like doing backend stuff.
+I like building cool things and learning new things.
 
 My [personal website](https://kangin.me)!
-
-To see what I've been up to recently, check out my [blog posts](https://kangin.me/blog/)!
 
 ## Previously, I have worked at:
 - 👨🏼‍💻 SecurityScorecard as a Signal Intelligence Collections Intern (2022)
