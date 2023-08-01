@@ -4,6 +4,9 @@ I like building cool stuff and learning new things.
 
 My [personal website](https://kangin.me)!
 
+## Currently, I am working at:
+- 🙂 Optimove as a Data Integration Engineer
+
 ## Previously, I have worked at:
 - 👨🏼‍💻 SecurityScorecard as a Signal Intelligence Collections Intern (2022)
 - ✈️ Republic of Korea Air Force as an Enlisted Aircraft Mechanic (2019-2021)
