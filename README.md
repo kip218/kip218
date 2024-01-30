@@ -12,7 +12,7 @@ My [personal website](https://kangin.me)!
 - ✈️ Republic of Korea Air Force as an Enlisted Aircraft Mechanic (2019-2021)
 - 👨‍🏫 NYU TRIO Scholars as a Python Tutor (2018-2019)
 
-## Stats
+<!-- ## Stats -->
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip218&layout=compact&theme=dark&exclude_repo=Intro-to-Game-Programming-CS3113)](https://github.com/anuraghazra/github-readme-stats) -->
 
