@@ -16,7 +16,7 @@ My [personal website](https://kangin.me)!
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kip218&layout=compact&theme=dark&exclude_repo=Intro-to-Game-Programming-CS3113)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats-h1lggst0c-kip218.vercel.app/api/top-langs/?username=kip218&layout=compact&theme=dark&exclude_repo=Intro-to-Game-Programming-CS3113&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats-h1lggst0c-kip218.vercel.app/api/top-langs/?username=kip218&layout=compact&theme=dark&exclude_repo=Intro-to-Game-Programming-CS3113&hide=html)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kip218&theme=dark)](https://git.io/streak-stats) -->
 
