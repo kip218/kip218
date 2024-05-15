@@ -5,7 +5,7 @@ I like building cool stuff and learning new things.
 My [personal website](https://kangin.me)!
 
 ## Currently, I am working at:
-- 🙂 Optimove as a Data Integration Engineer
+- 🙂 Optimove as a Data Engineer
 
 ## Previously, I have worked at:
 - 👨🏼‍💻 SecurityScorecard as a Signal Intelligence Collections Intern (2022)
