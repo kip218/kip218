@@ -2,7 +2,7 @@
 
 I like building cool stuff and learning new things.
 
-My [personal website](https://kangin.me)! (because I just felt like dabbling in a bit of frontend :))
+My [personal website](https://kangin.me)!
 
 ## Currently, I am working at:
 - 🙂 Optimove as a Customer Data Engineer (2023~)
