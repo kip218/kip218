@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Kang!
 
-I like building cool stuff and learning new things.
+<!-- I like building cool stuff and learning new things. -->
 
 <!-- My [personal website](https://kangin.me)!
 
