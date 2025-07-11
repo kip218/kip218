@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Kang In!
+# 👋 Hi, I’m Kang!
 
 I like building cool stuff and learning new things.
 
-My [personal website](https://kangin.me)!
+<!-- My [personal website](https://kangin.me)!
 
 ## Currently, I am working at:
 - 🙂 Optimove as a Customer Data Engineer (2023~)
@@ -11,6 +11,7 @@ My [personal website](https://kangin.me)!
 - 👨🏼‍💻 SecurityScorecard as a Signal Intelligence Collections Intern (2022)
 - ✈️ Republic of Korea Air Force as an Enlisted Aircraft Mechanic (2019-2021)
 - 👨‍🏫 NYU TRIO Scholars as a Python Tutor (2018-2019)
+-->
 
 <!-- ## Stats -->
 
