@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Kang!
+### 👋 Hi, I’m Kang!
 
 <!-- I like building cool stuff and learning new things. -->
 
